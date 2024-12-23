@@ -34,6 +34,10 @@ Welcome to my GitHub profile! I'm passionate about technology, data, and buildin
 ## **Projects & Contributions**  
 
 ### 🔥 Recent Highlights  
+- 💵 **[_SpendWise_](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-036-rmt-group-001.git)**  
+  *As a Data Scientist in this Project, I built five initial Machine Learning Models using: KNN, SVM, DT, RF, and AdaBoosting.  
+  after Model Evaluation, I choose AdaBoosing and did the Hyperparameter Tuning to further increse the performance of the Model*
+  
 - 🌐 **[ForestFirePredict](https://github.com/septyoa/ForestFirePredict)**  
   *I built this Machine learning Model using Computer Vision to identify forest fire images*  
 
