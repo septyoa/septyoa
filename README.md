@@ -42,7 +42,10 @@ Welcome to my GitHub profile! I'm passionate about technology, data, and buildin
   *I built this Machine learning Model using Computer Vision to identify forest fire images*  
 
 - 📊 **[LaptopPircePredict](https://github.com/septyoa/LaptopPricePredict)**  
-  *This Machine Learning Model was built to help costumer find out the budget they need to prepare to buy a laptop by desired specs*  
+  *This Machine Learning Model was built to help costumer find out the budget they need to prepare to buy a laptop by desired specs*
+
+- 🎬 **[MovieAnalysis](https://github.com/septyoa/MovieAnalysis)**  
+  *As a Data Analyst for an Online Movie Rental Company, I provide them with insights on which movies they should add to their platforms based on the Production House, Genre, Country of Origin, and Year of Release*  
 
 Check out more of my work in the repositories below!  
 
